@@ -1,2 +1,8 @@
-# coin-capsule-holder
-3D model of coin capsule holder.
+# Coin Capsule Holder
+3D Printed Coin Capsule Holder
+
+A custom-designed holder for coin capsules. Designed for easy storage and display.
+
+## Features:
+- Holds 5 standard coin capsules
+- Clean minimalist design
